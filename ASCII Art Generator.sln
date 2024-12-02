@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASCII Art Generator", "ASCII Art Generator.csproj", "{B8E33FAA-022E-41D1-86BE-DAF7F6FB8EE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8E33FAA-022E-41D1-86BE-DAF7F6FB8EE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8E33FAA-022E-41D1-86BE-DAF7F6FB8EE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8E33FAA-022E-41D1-86BE-DAF7F6FB8EE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8E33FAA-022E-41D1-86BE-DAF7F6FB8EE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AB4C97E-0CD2-4DC2-99EF-FB777BD3615D}
+	EndGlobalSection
+EndGlobal

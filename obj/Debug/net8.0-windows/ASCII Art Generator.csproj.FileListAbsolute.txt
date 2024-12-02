@@ -1,0 +1,15 @@
+E:\MyProject\Learnig\ASCII Art Generator\bin\Debug\net8.0-windows\ASCII Art Generator.exe
+E:\MyProject\Learnig\ASCII Art Generator\bin\Debug\net8.0-windows\ASCII Art Generator.deps.json
+E:\MyProject\Learnig\ASCII Art Generator\bin\Debug\net8.0-windows\ASCII Art Generator.runtimeconfig.json
+E:\MyProject\Learnig\ASCII Art Generator\bin\Debug\net8.0-windows\ASCII Art Generator.dll
+E:\MyProject\Learnig\ASCII Art Generator\bin\Debug\net8.0-windows\ASCII Art Generator.pdb
+E:\MyProject\Learnig\ASCII Art Generator\obj\Debug\net8.0-windows\ASCII Art Generator.csproj.ResolveComReference.cache
+E:\MyProject\Learnig\ASCII Art Generator\obj\Debug\net8.0-windows\ASCII Art Generator.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyProject\Learnig\ASCII Art Generator\obj\Debug\net8.0-windows\ASCII Art Generator.AssemblyInfoInputs.cache
+E:\MyProject\Learnig\ASCII Art Generator\obj\Debug\net8.0-windows\ASCII Art Generator.AssemblyInfo.cs
+E:\MyProject\Learnig\ASCII Art Generator\obj\Debug\net8.0-windows\ASCII Art Generator.csproj.CoreCompileInputs.cache
+E:\MyProject\Learnig\ASCII Art Generator\obj\Debug\net8.0-windows\ASCII Art Generator.dll
+E:\MyProject\Learnig\ASCII Art Generator\obj\Debug\net8.0-windows\refint\ASCII Art Generator.dll
+E:\MyProject\Learnig\ASCII Art Generator\obj\Debug\net8.0-windows\ASCII Art Generator.pdb
+E:\MyProject\Learnig\ASCII Art Generator\obj\Debug\net8.0-windows\ASCII Art Generator.genruntimeconfig.cache
+E:\MyProject\Learnig\ASCII Art Generator\obj\Debug\net8.0-windows\ref\ASCII Art Generator.dll
