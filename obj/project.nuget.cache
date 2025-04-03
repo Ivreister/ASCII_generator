@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ggntS/kCn52o/9VFSKdp+qfmki8NQgq2Mc6aTfB2TMPwy0kLgW+0UNuSHczCbAeIFjP/6WJRhGwW4L1UUxi8mw==",
+  "dgSpecHash": "s+hVjIhUDDKotvOcJPkHbjllFrAiKf4t6CuqZWqE5w8s0Kk/OtrlCUxuFpypgJQjcyaRm/wBTtgEpOBxFN+1Ow==",
   "success": true,
-  "projectFilePath": "E:\\MyProject\\Learnig\\ASCII Art Generator\\ASCII Art Generator.csproj",
+  "projectFilePath": "E:\\MyProject\\ASCII_generator\\ASCII Art Generator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

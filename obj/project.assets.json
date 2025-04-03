@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\MyProject\\Learnig\\ASCII Art Generator\\ASCII Art Generator.csproj",
+      "projectUniqueName": "E:\\MyProject\\ASCII_generator\\ASCII Art Generator.csproj",
       "projectName": "ASCII Art Generator",
-      "projectPath": "E:\\MyProject\\Learnig\\ASCII Art Generator\\ASCII Art Generator.csproj",
+      "projectPath": "E:\\MyProject\\ASCII_generator\\ASCII Art Generator.csproj",
       "packagesPath": "C:\\Users\\rever\\.nuget\\packages\\",
-      "outputPath": "E:\\MyProject\\Learnig\\ASCII Art Generator\\obj\\",
+      "outputPath": "E:\\MyProject\\ASCII_generator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\VisualStudio\\Microsoft Visual Studio\\Shared\\NuGetPackages"

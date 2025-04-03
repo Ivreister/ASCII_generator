@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ASCII_Art_Generator
-build_property.ProjectDir = E:\MyProject\Learnig\ASCII Art Generator\
+build_property.ProjectDir = E:\MyProject\ASCII_generator\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
